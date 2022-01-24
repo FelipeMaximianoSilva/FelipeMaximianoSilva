@@ -1,4 +1,4 @@
-- 🌱 Atualmente estou estudando // I’m currently learning -> JavaScript
+- 🌱 Atualmente estou aprendendo // I’m currently learning -> JavaScript
 - 💬 Pergunte-me sobre // Ask me about -> Qualquer coisa || Anything
 - 📫 Contatos // How to reach me: maximiano.felipesilva@gmail.com || @eu.sou.o.felipe
 - 😄 Pronomes // Pronouns: ele/dele || he/him
