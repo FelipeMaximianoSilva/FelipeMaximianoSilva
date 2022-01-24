@@ -1,7 +1,3 @@
-
-**FelipeMaximianoSilva/FelipeMaximianoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. */
-
-
 - 🌱 Atualmente estou estudando // I’m currently learning -> JavaScript
 - 💬 Pergunte-me sobre // Ask me about -> Qualquer coisa || Anything
 - 📫 Contatos // How to reach me: maximiano.felipesilva@gmail.com || @eu.sou.o.felipe
