@@ -6,8 +6,10 @@
 - 😄 Pronomes // Pronouns -> ele/dele || he/him
 - ⚡ Curiosidade // Fun fact -> Sempre me interessei por programação desde jovem e meu primeiro contato foi desenvolvendo um jogo de plataforma no Game Maker aos 12 anos! // I've always been interested in programming since I was a child and my first contact was developing a platform game in Game Maker when I was 12 years old!
 
+<center>
 <div>
-<!-- <a href="https://github.com/FelipeMaximianoSilva"> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&layout=compact&theme=dracula"/>
+<!-- <a href="https://github.com/FelipeMaximianoSilva"> --> 
+<img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&layout=compact&theme=gotham"/>
 </div>
+</center
