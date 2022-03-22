@@ -4,4 +4,4 @@
 - 😄 Pronomes // Pronouns -> ele/dele || he/him
 - ⚡ Curiosidade // Fun fact -> Sempre me interessei por programação desde jovem e meu primeiro contato foi desenvolvendo um jogo de plataforma no Game Maker aos 12 anos! // I've always been interested in programming since I was a child and my first contact was developing a platform game in Game Maker when I was 12 years old!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva)](https://github.com/FelipeMaximianoSilva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=dracula)](https://github.com/FelipeMaximianoSilva/github-readme-stats)
