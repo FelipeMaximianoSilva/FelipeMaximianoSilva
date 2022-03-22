@@ -8,4 +8,5 @@
 <a href="https://github.com/FelipeMaximianoSilva">
 <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=dracula)]"(https://github.com/FelipeMaximianoSilva/github-readme-stats)>
 <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva)](https://github.com/FelipeMaximianoSilva/github-readme-stats)">
+  </a>
 </div>
