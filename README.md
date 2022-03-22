@@ -1,4 +1,6 @@
-- 🌱 Atualmente estou aprendendo // I’m currently learning -> Web development
+## Olá, eu sou o Felipe Maximiano!
+
+- 🌱 Atualmente estou aprendendo // I’m currently learning -> Full Stack Development
 - 💬 Pergunte-me sobre // Ask me about -> Qualquer coisa || Anything
 - 📫 Contatos // How to reach me -> maximiano.felipesilva@gmail.com || https://www.linkedin.com/in/felipe-maximiano-da-silva-999559185/
 - 😄 Pronomes // Pronouns -> ele/dele || he/him
@@ -7,5 +9,5 @@
 <div>
 <!-- <a href="https://github.com/FelipeMaximianoSilva"> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&show_icons=true&theme=dracula&layout=compact)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&layout=compact&theme=dracula"/>
 </div>
