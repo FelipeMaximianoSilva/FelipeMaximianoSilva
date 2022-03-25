@@ -8,9 +8,9 @@
 
 <center>
 <div>
-<a href="https://github.com/FelipeMaximianoSilva">
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=gotham"/>
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&layout=compact&theme=gotham"/></a>
+<!-- <a href="https://github.com/FelipeMaximianoSilva"> -->
+<img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=FelipeMaximianoSilva&show_icons=true&theme=gotham"/>
+<img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaximianoSilva&layout=compact&theme=gotham"/>
 </div>
 </center
 <br>
