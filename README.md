@@ -18,7 +18,10 @@
   <h2>Contatos</h2>
 
 <div display="flex" flex-direction="row">
-  <a href="https://www.linkedin.com/in/felipe-maximiano-da-silva-999559185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/FelipeMaximianoSilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/felipe-maximiano-da-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:maximiano.felipesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<h2>Tecnologias utilizadas</h2>
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,mysql)](https://skills.thijs.gg)
